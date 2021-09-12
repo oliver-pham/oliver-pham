@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="GIF/hello-there.gif" height="2em" />
+    <img src="GIF/hello-there.gif" height="30em" />
   </a>
   Hi there!
 </h1>
