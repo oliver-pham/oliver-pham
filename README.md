@@ -1,8 +1,6 @@
-### Hello World, I'm Samir Mishra:
-
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/oliver-pham/oliver-pham/blob/master/GIF/hello-there.gif" width="40px" />
+    <img src="GIF/hello-there.gif" height="2em" />
   </a>
   Hi there!
 </h1>
@@ -13,13 +11,13 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/oliver-pham/oliver-pham/blob/master/GIF/monkey-developer.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="GIF/monkey-developer.gif?raw=true">
 </a>
 
-- 🔭 I’m currently working on **Web Development** and **[a static site generator](https://github.com/oliver-pham/silkie)**
-- 🌱 I’m currently learning **Swift** and contributing to **Open Source projects**
-- 🤔 I’m looking for any **Co-op or Internship Opportunities** this Winter 2021
-- 💬 Ask me about Anything [here](https://github.com/oliver-pham/oliver-pham/issues/1)! I am happy to help.
+- 🔭 &nbsp;I’m currently working on **Web Development** and **[a static site generator](https://github.com/oliver-pham/silkie)**
+- 🌱 &nbsp;I’m currently learning **Swift** and contributing to **Open Source projects**
+- 🤔 &nbsp;I’m looking for any **Co-op or Internship Opportunities** this Winter 2021
+- 💬 &nbsp;Ask me about Anything [here](https://github.com/oliver-pham/oliver-pham/issues/1)! I am happy to help.
 
 
 <br/>
@@ -67,21 +65,3 @@
 
 
 <br/>
-
-
-
-
-### 📅 Isometric commit calendar
-
-The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
-
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-    
-  </td>
-</table>
