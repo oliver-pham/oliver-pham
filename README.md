@@ -5,7 +5,7 @@
   Hi there!
 </h1>
 <p align="center">
-  I'm a Software Developer in Toronto, Canada.
+  I'm a Software Developer in Toronto, Canada 🇨🇦.
 </p>
 
 <br/>
@@ -16,7 +16,7 @@
 
 - 🔭 &nbsp;I’m currently working on **Web Development** and **[a static site generator](https://github.com/oliver-pham/silkie)**
 - 🌱 &nbsp;I’m currently learning **Swift** and contributing to **Open Source projects**
-- 🤔 &nbsp;I’m looking for any **Co-op or Internship Opportunities** this Winter 2021
+- 🤔 &nbsp;I’m looking for awesome **Co-op or Internship Opportunities** this Winter 2021
 - 💬 &nbsp;Ask me about Anything [here](https://github.com/oliver-pham/oliver-pham/issues/1)! I am happy to help.
 
 
