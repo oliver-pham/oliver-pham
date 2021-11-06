@@ -16,7 +16,7 @@
 
 - 🔭 &nbsp;I’m currently working on **Web Development** and **[a static site generator](https://github.com/oliver-pham/silkie)**
 - 🌱 &nbsp;I’m currently learning **Swift** and contributing to **Open Source projects**
-- 🤔 &nbsp;I’m looking for awesome **Co-op or Internship Opportunities** this Winter 2021
+- 🤔 &nbsp;I’m looking for awesome Ruby or Python open source projects
 - 💬 &nbsp;Ask me about Anything [here](https://github.com/oliver-pham/oliver-pham/issues/new)! I am happy to help.
 
 
