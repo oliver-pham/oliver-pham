@@ -15,8 +15,6 @@
 </a>
 
 - 🔭 &nbsp;I’m currently working on **a dating app**
-- 🌱 &nbsp;I’m currently learning **Botpress** and contributing to **Open Source projects**
-- 🤔 &nbsp;I’m looking for awesome Ruby or Python open source projects
 - 💬 &nbsp;Ask me about Anything [here](https://github.com/oliver-pham/oliver-pham/issues/new)! I am happy to help.
 
 
