@@ -15,6 +15,7 @@
 </a>
 
 - 🔭 &nbsp;I’m currently working on **a dating app**
+- 🤔 &nbsp;I'm learning AWS, Azure, and Android development
 - 💬 &nbsp;Ask me about Anything [here](https://github.com/oliver-pham/oliver-pham/issues/new)! I am happy to help.
 
 
